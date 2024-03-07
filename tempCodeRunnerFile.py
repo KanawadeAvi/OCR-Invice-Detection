@@ -1,0 +1,2 @@
+
+        img = Image.open(image)
